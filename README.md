@@ -16,7 +16,7 @@
 
 - 🎓 Estudiante de **Ingeniería de Sistemas** enfocado en arquitectura de software, backend robusto y soluciones full stack.
 - 💼 Desarrollador web trabajando en **modernización de sistemas enterprise, aplicaciones orientadas al alto rendimiento y plataformas de gestión**.
-- 🤖 Interesado en **desarrollo mobile/web, robótica autónoma e integración de hardware con software**.
+- 🤖 Interesado en **desarrollo de proyectos mobile/web*.
 - 🏋️ Apasionado por la tecnología, el código limpio (*Clean Code*) y el entrenamiento de fuerza / powerlifting.
 
 ---
