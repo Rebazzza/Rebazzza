@@ -69,12 +69,10 @@
 ---
 
 ### 📊 Estadísticas en GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rebazzza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-masterrstme-anurag-hazras-projects.vercel.app/api/top-langs/?username=Rebazzza&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rebazzza&theme=tokyonight" width="48%" alt="GitHub Profile Details" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Rebazzza&theme=tokyonight" width="48%" alt="Top Languages" />
 </div>
-
 <br/>
 
 <div align="center">
