@@ -70,8 +70,7 @@
 
 ### 📊 Estadísticas en GitHub
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rebazzza&theme=tokyonight" width="48%" alt="GitHub Profile Details" />
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Rebazzza&theme=tokyonight" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rebazzza&theme=tokyonight" width="95%" alt="GitHub Profile Details" />
 </div>
 <br/>
 
